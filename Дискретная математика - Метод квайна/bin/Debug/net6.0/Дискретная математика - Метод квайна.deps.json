@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Дискретная математика - Метод квайна/1.0.0": {
+        "runtime": {
+          "Дискретная математика - Метод квайна.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Дискретная математика - Метод квайна/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

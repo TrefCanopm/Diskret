@@ -1,0 +1,15 @@
+D:\Мои проекты Vethyal studia\Дискретная математика - Метод квайна\bin\Debug\net6.0\Дискретная математика - Метод квайна.exe
+D:\Мои проекты Vethyal studia\Дискретная математика - Метод квайна\bin\Debug\net6.0\Дискретная математика - Метод квайна.deps.json
+D:\Мои проекты Vethyal studia\Дискретная математика - Метод квайна\bin\Debug\net6.0\Дискретная математика - Метод квайна.runtimeconfig.json
+D:\Мои проекты Vethyal studia\Дискретная математика - Метод квайна\bin\Debug\net6.0\Дискретная математика - Метод квайна.dll
+D:\Мои проекты Vethyal studia\Дискретная математика - Метод квайна\bin\Debug\net6.0\Дискретная математика - Метод квайна.pdb
+D:\Мои проекты Vethyal studia\Дискретная математика - Метод квайна\obj\Debug\net6.0\Дискретная математика - Метод квайна.csproj.AssemblyReference.cache
+D:\Мои проекты Vethyal studia\Дискретная математика - Метод квайна\obj\Debug\net6.0\Дискретная математика - Метод квайна.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои проекты Vethyal studia\Дискретная математика - Метод квайна\obj\Debug\net6.0\Дискретная математика - Метод квайна.AssemblyInfoInputs.cache
+D:\Мои проекты Vethyal studia\Дискретная математика - Метод квайна\obj\Debug\net6.0\Дискретная математика - Метод квайна.AssemblyInfo.cs
+D:\Мои проекты Vethyal studia\Дискретная математика - Метод квайна\obj\Debug\net6.0\Дискретная математика - Метод квайна.csproj.CoreCompileInputs.cache
+D:\Мои проекты Vethyal studia\Дискретная математика - Метод квайна\obj\Debug\net6.0\Дискретная математика - Метод квайна.dll
+D:\Мои проекты Vethyal studia\Дискретная математика - Метод квайна\obj\Debug\net6.0\refint\Дискретная математика - Метод квайна.dll
+D:\Мои проекты Vethyal studia\Дискретная математика - Метод квайна\obj\Debug\net6.0\Дискретная математика - Метод квайна.pdb
+D:\Мои проекты Vethyal studia\Дискретная математика - Метод квайна\obj\Debug\net6.0\Дискретная математика - Метод квайна.genruntimeconfig.cache
+D:\Мои проекты Vethyal studia\Дискретная математика - Метод квайна\obj\Debug\net6.0\ref\Дискретная математика - Метод квайна.dll
