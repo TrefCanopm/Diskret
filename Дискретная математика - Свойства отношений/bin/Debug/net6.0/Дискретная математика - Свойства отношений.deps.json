@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Дискретная математика - Свойства отношений/1.0.0": {
+        "runtime": {
+          "Дискретная математика - Свойства отношений.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Дискретная математика - Свойства отношений/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
